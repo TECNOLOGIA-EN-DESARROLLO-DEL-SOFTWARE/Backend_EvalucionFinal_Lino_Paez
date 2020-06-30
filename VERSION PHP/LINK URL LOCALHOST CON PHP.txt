@@ -1,0 +1,1 @@
+EJECUTAR CON ESTE LINK: http://localhost/NextUcodBaseBuscador_versionPHP/index.php 
